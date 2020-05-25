@@ -1,0 +1,24 @@
+body{
+	background: #b92b27;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #1565C0, #b92b27);  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #1565C0, #b92b27);
+     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-family: "open sans";
+}
+
+.tabla0{
+	font-size: 30px;
+	color: white;
+}
+
+.tabla1{
+	box-shadow: 3px 3px 3px 3px white;
+	background: white;
+}
+
+button{
+	background: rgba(0,0,0,.5);
+	height: 60px;
+	width: 100px
+}
